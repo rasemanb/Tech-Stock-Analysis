@@ -12,11 +12,11 @@ Price Spread visuals show they also have the least volatility.
 
 **Question 3: What reccomendations would you make to your client?**
 
-Based purely on our Profit Over Time visual, I would reccomend investing in AAPL
-due to their upward trend in profits in the last few quarters, as well as the
-stocks resilience. Based on our Profit Percent Change bar chart, in addition to
+Based purely on our Revenue Over Time visual, I would reccomend investing in AAPL
+due to their upward trend in revenue in the last few quarters, as well as the
+stocks resilience. Based on our Revenue Percent Change bar chart, in addition to
 AAPL, I would reccomend investing in NVDA since they have the highest average
-percent profit change with a positive 6 percent over the last 5 years.
+percent revenue change with a positive 6 percent over the last 5 years.
 
 **Question 4: Which stock has the most potential to maximize profits?**
 
@@ -29,14 +29,14 @@ Coming into this project, the prospect for most profitable/highest potential to
 maximize gains was Microsoft, since they not only make computers, tablets, and
 gaming consoles, they also sell phones on their website like Apple (Galaxy S21).
 Although Microsoft had the largest increase in adjusted close price throughout
-the 5 year span, Apple had almost double the average profit than Microsoft. Using
+the 5 year span, Apple had almost double the average revenue than Microsoft. Using
 an ANOA test, we tested whether Apple had the most potential to maximize profits
 and found that the pvalue was less than our 0.05 significance level, so we
-accepted our original hypothesis. Based on the same ANOA test and our Profit Over
+accepted our original hypothesis. Based on the same ANOA test and our Revenue Over
 Time analysis, we would recommend investing in Apple to our client. In addition
 to investing in Apple, we would also recommend investing in Nvidia based off of
-the Average Percent Profit Change analysis. Something to note would be that
-although Nvidia had the highest percent profit change, the stock also had the
+the Average Percent Revenue Change analysis. Something to note would be that
+although Nvidia had the highest percent revenue change, the stock also had the
 most volatile price spread over the last 5 years. Apple and Google were the most
 resilient stocks when it came to price spread and being effected by outside
 factors (COVID-19).
@@ -45,8 +45,8 @@ Conclusions
 
 Overall, the highest performing stock over the last 5 years was Apple, followed
 by Microsoft. The stock with the most growth over the last 5 years was also Apple
-with a massive spike in profits in Q2/Q3 of 2020. Surprisingly, Apple experienced 
-the second lowest average percent profit change with only 5.15%, meaning there
+with a massive spike in revenue in Q2/Q3 of 2020. Surprisingly, Apple experienced 
+the second lowest average percent revenue change with only 5.15%, meaning there
 were some quarters where the stock was performing well below average. Since
 Microsoft experienced the largest increase in stock price, we expected it to
 be the top performer, but because of the lack of volume, Apple outperformed it.
